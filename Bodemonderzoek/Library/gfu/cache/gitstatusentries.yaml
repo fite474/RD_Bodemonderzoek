@@ -1,0 +1,2154 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2021-04-29T13:52:11.965+02:00
+  initializedAtString: 2021-04-29T13:52:05.925+02:00
+  entries:
+  - path: Bodemonderzoek\Assets\Models\RPG_FPS_industrial\Textures\Asphalt\Seamless_asphalt_v1\Seamless_asphalt_v1.mat
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Models\RPG_FPS_industrial\Textures\Asphalt\Seamless_asphalt_v1\Seamless_asphalt_v1.mat
+    projectPath: Assets\Models\RPG_FPS_industrial\Textures\Asphalt\Seamless_asphalt_v1\Seamless_asphalt_v1.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Assets\Plugins.meta
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins.meta
+    projectPath: Assets\Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub.meta
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub.meta
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor.meta
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor.meta
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\libsfw.so
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\x64.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\x86.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Assets\Scenes\Brandweerkazerne.unity
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Assets\Scenes\Brandweerkazerne.unity
+    projectPath: Assets\Scenes\Brandweerkazerne.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\APIUpdater\project-dependencies.graph
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\ArtifactDB
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Artifacts\02\02a8ad611f9493c7d21326311e79fc68
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Artifacts\02\02a8ad611f9493c7d21326311e79fc68
+    projectPath: Library\Artifacts\02\02a8ad611f9493c7d21326311e79fc68
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\Artifacts\09\09a5a28e98d51b555dbd90fd4902d8d7
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Artifacts\09\09a5a28e98d51b555dbd90fd4902d8d7
+    projectPath: Library\Artifacts\09\09a5a28e98d51b555dbd90fd4902d8d7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\Artifacts\1c\1cca311e63eea96c40e4f2a7b8578dc6
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Artifacts\1c\1cca311e63eea96c40e4f2a7b8578dc6
+    projectPath: Library\Artifacts\1c\1cca311e63eea96c40e4f2a7b8578dc6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+    projectPath: Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\Artifacts\21\213f3407bfad5881dc76066ee5f29f04
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Artifacts\21\213f3407bfad5881dc76066ee5f29f04
+    projectPath: Library\Artifacts\21\213f3407bfad5881dc76066ee5f29f04
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Bodemonderzoek\Library\Artifacts\29\2918cd2083d334e7da0f01f9093d8d21
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Artifacts\29\2918cd2083d334e7da0f01f9093d8d21
+    projectPath: Library\Artifacts\29\2918cd2083d334e7da0f01f9093d8d21
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\Artifacts\2a\2a0fdeb1ec5f8da91d6d8958de7393ff
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Artifacts\2a\2a0fdeb1ec5f8da91d6d8958de7393ff
+    projectPath: Library\Artifacts\2a\2a0fdeb1ec5f8da91d6d8958de7393ff
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\Artifacts\33\3304c218d0c89633dfa842d954fd0fa1
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Artifacts\33\3304c218d0c89633dfa842d954fd0fa1
+    projectPath: Library\Artifacts\33\3304c218d0c89633dfa842d954fd0fa1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Bodemonderzoek\Library\Artifacts\33\3309111fca29253c8724a8339316cef8
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Artifacts\33\3309111fca29253c8724a8339316cef8
+    projectPath: Library\Artifacts\33\3309111fca29253c8724a8339316cef8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\Artifacts\34\341a5b621f89eee41f4472dc8ff50ef4
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Artifacts\34\341a5b621f89eee41f4472dc8ff50ef4
+    projectPath: Library\Artifacts\34\341a5b621f89eee41f4472dc8ff50ef4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\Artifacts\45\4526f87de0bef85493c21ae02537d2d5
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Artifacts\45\4526f87de0bef85493c21ae02537d2d5
+    projectPath: Library\Artifacts\45\4526f87de0bef85493c21ae02537d2d5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\Artifacts\56\56c90edc29466f7fc21f745046f2f062
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Artifacts\56\56c90edc29466f7fc21f745046f2f062
+    projectPath: Library\Artifacts\56\56c90edc29466f7fc21f745046f2f062
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\Artifacts\5b\5b3eb945b36fd216348a07d072a18418
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Artifacts\5b\5b3eb945b36fd216348a07d072a18418
+    projectPath: Library\Artifacts\5b\5b3eb945b36fd216348a07d072a18418
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\Artifacts\5f\5f574311451fc7553c80715a4c5fbdf8
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Artifacts\5f\5f574311451fc7553c80715a4c5fbdf8
+    projectPath: Library\Artifacts\5f\5f574311451fc7553c80715a4c5fbdf8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\Artifacts\61\61ec30b87d846f9e451260396c9ee7b6
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Artifacts\61\61ec30b87d846f9e451260396c9ee7b6
+    projectPath: Library\Artifacts\61\61ec30b87d846f9e451260396c9ee7b6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\Artifacts\68\68147e453e7b052bfaf38a29e93a02ef
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Artifacts\68\68147e453e7b052bfaf38a29e93a02ef
+    projectPath: Library\Artifacts\68\68147e453e7b052bfaf38a29e93a02ef
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Bodemonderzoek\Library\Artifacts\69\692d23600ec7edd394bb62d84d54813f
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Artifacts\69\692d23600ec7edd394bb62d84d54813f
+    projectPath: Library\Artifacts\69\692d23600ec7edd394bb62d84d54813f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\Artifacts\6e\6ed9dcb310671c603bfd05dd0bb6c011
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Artifacts\6e\6ed9dcb310671c603bfd05dd0bb6c011
+    projectPath: Library\Artifacts\6e\6ed9dcb310671c603bfd05dd0bb6c011
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\Artifacts\70\7020b9c51d9f5ceca5e7723f02d84317
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Artifacts\70\7020b9c51d9f5ceca5e7723f02d84317
+    projectPath: Library\Artifacts\70\7020b9c51d9f5ceca5e7723f02d84317
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\Artifacts\83\83778b497b9aaac95287a06070d20128
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Artifacts\83\83778b497b9aaac95287a06070d20128
+    projectPath: Library\Artifacts\83\83778b497b9aaac95287a06070d20128
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\Artifacts\87\87443303dd8a7dacb988dbdeef6795b9
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Artifacts\87\87443303dd8a7dacb988dbdeef6795b9
+    projectPath: Library\Artifacts\87\87443303dd8a7dacb988dbdeef6795b9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\Artifacts\96\9613c4f5020ad64c04b39ddbd62667c2
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Artifacts\96\9613c4f5020ad64c04b39ddbd62667c2
+    projectPath: Library\Artifacts\96\9613c4f5020ad64c04b39ddbd62667c2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\Artifacts\ab\ab994017e22dc82d49bf1d2c22de29a0
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Artifacts\ab\ab994017e22dc82d49bf1d2c22de29a0
+    projectPath: Library\Artifacts\ab\ab994017e22dc82d49bf1d2c22de29a0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\Artifacts\ac\acd940b0398ed020e626ea107d1f80ea
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Artifacts\ac\acd940b0398ed020e626ea107d1f80ea
+    projectPath: Library\Artifacts\ac\acd940b0398ed020e626ea107d1f80ea
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\Artifacts\bf\bf8fe7cf9fceb5a9d65b6db12559c745
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Artifacts\bf\bf8fe7cf9fceb5a9d65b6db12559c745
+    projectPath: Library\Artifacts\bf\bf8fe7cf9fceb5a9d65b6db12559c745
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\Artifacts\c3\c31658f288523f2acad05b2e7cee6d3f
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Artifacts\c3\c31658f288523f2acad05b2e7cee6d3f
+    projectPath: Library\Artifacts\c3\c31658f288523f2acad05b2e7cee6d3f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\Artifacts\c5\c54bbad55d62ccc6582503fbf7c1088a
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Artifacts\c5\c54bbad55d62ccc6582503fbf7c1088a
+    projectPath: Library\Artifacts\c5\c54bbad55d62ccc6582503fbf7c1088a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\Artifacts\c7\c7e5db402f5cc45a1308fe396283066f
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Artifacts\c7\c7e5db402f5cc45a1308fe396283066f
+    projectPath: Library\Artifacts\c7\c7e5db402f5cc45a1308fe396283066f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\Artifacts\ca\cae5c3203d91b1eb565f1780752b69b6
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Artifacts\ca\cae5c3203d91b1eb565f1780752b69b6
+    projectPath: Library\Artifacts\ca\cae5c3203d91b1eb565f1780752b69b6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\Artifacts\cc\cca2f36f28c5393532cef3e4cf098041
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Artifacts\cc\cca2f36f28c5393532cef3e4cf098041
+    projectPath: Library\Artifacts\cc\cca2f36f28c5393532cef3e4cf098041
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\Artifacts\ce\ce97172975105982b485a03c3bd0286b
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Artifacts\ce\ce97172975105982b485a03c3bd0286b
+    projectPath: Library\Artifacts\ce\ce97172975105982b485a03c3bd0286b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\Artifacts\d5\d5658c69b9ab234620c83b9689dcb682
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Artifacts\d5\d5658c69b9ab234620c83b9689dcb682
+    projectPath: Library\Artifacts\d5\d5658c69b9ab234620c83b9689dcb682
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\Artifacts\d5\d5bedf9ff689b322fe88122fa705a5a7
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Artifacts\d5\d5bedf9ff689b322fe88122fa705a5a7
+    projectPath: Library\Artifacts\d5\d5bedf9ff689b322fe88122fa705a5a7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\Artifacts\e2\e2338646ac0f2f763ba7e99744a6fc69
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Artifacts\e2\e2338646ac0f2f763ba7e99744a6fc69
+    projectPath: Library\Artifacts\e2\e2338646ac0f2f763ba7e99744a6fc69
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\Artifacts\f9\f9be6121d23763e722a6788a7a13edb2
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Artifacts\f9\f9be6121d23763e722a6788a7a13edb2
+    projectPath: Library\Artifacts\f9\f9be6121d23763e722a6788a7a13edb2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\Bee\1900b0aE.dag
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\1900b0aE.dag
+    projectPath: Library\Bee\1900b0aE.dag
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\1900b0aE.dag.json
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\1900b0aE.dag.json
+    projectPath: Library\Bee\1900b0aE.dag.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\1900b0aE.dag.outputdata
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\1900b0aE.dag.outputdata
+    projectPath: Library\Bee\1900b0aE.dag.outputdata
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\1900b0aE.dag_derived
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\1900b0aE.dag_derived
+    projectPath: Library\Bee\1900b0aE.dag_derived
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\1900b0aE.dag_fsmtime
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\1900b0aE.dag_fsmtime
+    projectPath: Library\Bee\1900b0aE.dag_fsmtime
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\1900b0aE-inputdata.json
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\1900b0aE-inputdata.json
+    projectPath: Library\Bee\1900b0aE-inputdata.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll.movedfrom
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll.movedfrom
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll.movedfrom
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.rsp
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll.movedfrom
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll.movedfrom
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll.movedfrom
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll.movedfrom.rsp
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll.movedfrom.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll.movedfrom.rsp
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.ref.dll
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.ref.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.ref.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.rsp
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.rsp
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.rsp
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.InputSystem.rsp
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.InputSystem.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.InputSystem.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.Mathematics.Editor.rsp
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.Mathematics.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Mathematics.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.Mathematics.rsp
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.Mathematics.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Mathematics.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.RenderPipeline.Universal.ShaderLibrary.rsp
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.RenderPipeline.Universal.ShaderLibrary.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.RenderPipeline.Universal.ShaderLibrary.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.RenderPipelines.Core.Editor.rsp
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.RenderPipelines.Core.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.RenderPipelines.Core.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.RenderPipelines.Core.Runtime.rsp
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.RenderPipelines.Core.Runtime.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.RenderPipelines.Core.Runtime.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.RenderPipelines.Core.ShaderLibrary.rsp
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.RenderPipelines.Core.ShaderLibrary.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.RenderPipelines.Core.ShaderLibrary.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.rsp
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.RenderPipelines.Universal.Editor.rsp
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.RenderPipelines.Universal.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.RenderPipelines.Universal.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.RenderPipelines.Universal.Runtime.rsp
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.RenderPipelines.Universal.Runtime.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.RenderPipelines.Universal.Runtime.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.RenderPipelines.Universal.Shaders.rsp
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.RenderPipelines.Universal.Shaders.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.RenderPipelines.Universal.Shaders.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.Searcher.Editor.rsp
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.Searcher.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Searcher.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.ShaderGraph.Editor.rsp
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.ShaderGraph.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.ShaderGraph.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.ShaderGraph.Utilities.rsp
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.ShaderGraph.Utilities.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.ShaderGraph.Utilities.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.Subsystem.Registration.rsp
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.Subsystem.Registration.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Subsystem.Registration.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.rsp
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.rsp
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.rsp
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.rsp
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.Editor.rsp
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.rsp
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.Editor.rsp
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.rsp
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.Editor.rsp
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.rsp
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.rsp
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.XR.Interaction.Toolkit.Editor.rsp
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.XR.Interaction.Toolkit.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.XR.Interaction.Toolkit.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.XR.Interaction.Toolkit.rsp
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.XR.Interaction.Toolkit.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.XR.Interaction.Toolkit.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.XR.Management.Editor.rsp
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.XR.Management.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.XR.Management.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.XR.Management.rsp
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.XR.Management.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.XR.Management.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.XR.OpenXR.Editor.rsp
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.XR.OpenXR.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.XR.OpenXR.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.XR.OpenXR.Features.ConformanceAutomation.rsp
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.XR.OpenXR.Features.ConformanceAutomation.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.XR.OpenXR.Features.ConformanceAutomation.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.XR.OpenXR.Features.RuntimeDebugger.Editor.rsp
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.XR.OpenXR.Features.RuntimeDebugger.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.XR.OpenXR.Features.RuntimeDebugger.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.XR.OpenXR.rsp
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.XR.OpenXR.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.XR.OpenXR.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.XR.OpenXR.TestHelpers.rsp
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\Unity.XR.OpenXR.TestHelpers.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.XR.OpenXR.TestHelpers.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.SpatialTracking.rsp
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.SpatialTracking.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.SpatialTracking.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.rsp
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.XR.LegacyInputHelpers.rsp
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.XR.LegacyInputHelpers.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.XR.LegacyInputHelpers.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.SpatialTracking.rsp
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.SpatialTracking.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.SpatialTracking.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.rsp
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.XR.LegacyInputHelpers.rsp
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.XR.LegacyInputHelpers.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.XR.LegacyInputHelpers.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\VSSettingsProvider.rsp
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\artifacts\1900b0aE.dag\VSSettingsProvider.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\VSSettingsProvider.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\profiler.json
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\profiler.json
+    projectPath: Library\Bee\profiler.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\tundra.digestcache
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\tundra.digestcache
+    projectPath: Library\Bee\tundra.digestcache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\tundra.log.json
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\tundra.log.json
+    projectPath: Library\Bee\tundra.log.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\TundraBuildState.state
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\TundraBuildState.state
+    projectPath: Library\Bee\TundraBuildState.state
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\Bee\TundraBuildState.state.map
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Bee\TundraBuildState.state.map
+    projectPath: Library\Bee\TundraBuildState.state.map
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\CurrentLayout-default.dwlt
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\EditorInstance.json
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\expandedItems
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\expandedItems
+    projectPath: Library\expandedItems
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\gfu\cache\gituser.yaml
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\SceneVisibilityState.asset
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\Search\transactions.db
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\Search\transactions.db
+    projectPath: Library\Search\transactions.db
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\ShaderCache\0\00257d62645e0c0903e26b7d4b23e8f5.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\0\00257d62645e0c0903e26b7d4b23e8f5.bin
+    projectPath: Library\ShaderCache\0\00257d62645e0c0903e26b7d4b23e8f5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\0\005be0f75a4014c9f68fe180c6904d3f.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\0\005be0f75a4014c9f68fe180c6904d3f.bin
+    projectPath: Library\ShaderCache\0\005be0f75a4014c9f68fe180c6904d3f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\0\02333d64a0c479de43a9725752bd00f5.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\0\02333d64a0c479de43a9725752bd00f5.bin
+    projectPath: Library\ShaderCache\0\02333d64a0c479de43a9725752bd00f5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\0\0447345591e137aa6736b8463f1d8965.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\0\0447345591e137aa6736b8463f1d8965.bin
+    projectPath: Library\ShaderCache\0\0447345591e137aa6736b8463f1d8965.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\0\05b1e8196bd10ede2085f196e2455ca3.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\0\05b1e8196bd10ede2085f196e2455ca3.bin
+    projectPath: Library\ShaderCache\0\05b1e8196bd10ede2085f196e2455ca3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\0\067fad06adde32eb0814b2c441c59595.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\0\067fad06adde32eb0814b2c441c59595.bin
+    projectPath: Library\ShaderCache\0\067fad06adde32eb0814b2c441c59595.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\0\091b0a7e29611497b741566fd7fe16db.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\0\091b0a7e29611497b741566fd7fe16db.bin
+    projectPath: Library\ShaderCache\0\091b0a7e29611497b741566fd7fe16db.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\0\0a5904eb76ad69ecee843bb35bd80581.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\0\0a5904eb76ad69ecee843bb35bd80581.bin
+    projectPath: Library\ShaderCache\0\0a5904eb76ad69ecee843bb35bd80581.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\0\0ad7628e1ba7d6bae3f749c56ab00fa1.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\0\0ad7628e1ba7d6bae3f749c56ab00fa1.bin
+    projectPath: Library\ShaderCache\0\0ad7628e1ba7d6bae3f749c56ab00fa1.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\0\0c1e351e11af048d15a48e90a57b8afe.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\0\0c1e351e11af048d15a48e90a57b8afe.bin
+    projectPath: Library\ShaderCache\0\0c1e351e11af048d15a48e90a57b8afe.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\0\0cc86d26f706b341473f08828e147305.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\0\0cc86d26f706b341473f08828e147305.bin
+    projectPath: Library\ShaderCache\0\0cc86d26f706b341473f08828e147305.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\0\0d3d5e8464334efa9b965a54a3369f43.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\0\0d3d5e8464334efa9b965a54a3369f43.bin
+    projectPath: Library\ShaderCache\0\0d3d5e8464334efa9b965a54a3369f43.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\0\0debb5fbc3202e0be60e373f2d72444c.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\0\0debb5fbc3202e0be60e373f2d72444c.bin
+    projectPath: Library\ShaderCache\0\0debb5fbc3202e0be60e373f2d72444c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\0\0e93e81e475873a25a2018bfd9730328.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\0\0e93e81e475873a25a2018bfd9730328.bin
+    projectPath: Library\ShaderCache\0\0e93e81e475873a25a2018bfd9730328.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\0\0f12904d8cf8e287f9b44a175038e0ca.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\0\0f12904d8cf8e287f9b44a175038e0ca.bin
+    projectPath: Library\ShaderCache\0\0f12904d8cf8e287f9b44a175038e0ca.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\1\11747aa925e6c4e72af19fa0f6c5daea.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\1\11747aa925e6c4e72af19fa0f6c5daea.bin
+    projectPath: Library\ShaderCache\1\11747aa925e6c4e72af19fa0f6c5daea.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\1\12423932d63812b8c53615b194b71558.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\1\12423932d63812b8c53615b194b71558.bin
+    projectPath: Library\ShaderCache\1\12423932d63812b8c53615b194b71558.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\1\1497e3bc6a15ef19df90df8c2eab1a47.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\1\1497e3bc6a15ef19df90df8c2eab1a47.bin
+    projectPath: Library\ShaderCache\1\1497e3bc6a15ef19df90df8c2eab1a47.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\1\162acc41d6a10c0ef3b64c87e9d1dc31.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\1\162acc41d6a10c0ef3b64c87e9d1dc31.bin
+    projectPath: Library\ShaderCache\1\162acc41d6a10c0ef3b64c87e9d1dc31.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\1\17336a37a66c756d6ec02a271393386c.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\1\17336a37a66c756d6ec02a271393386c.bin
+    projectPath: Library\ShaderCache\1\17336a37a66c756d6ec02a271393386c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\1\1764499e1710a826ec90ccb7721607fa.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\1\1764499e1710a826ec90ccb7721607fa.bin
+    projectPath: Library\ShaderCache\1\1764499e1710a826ec90ccb7721607fa.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\1\178c02d0c3a42ead1cf30fd11c0a6f2c.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\1\178c02d0c3a42ead1cf30fd11c0a6f2c.bin
+    projectPath: Library\ShaderCache\1\178c02d0c3a42ead1cf30fd11c0a6f2c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\1\18efd684447eb2ec9b35d8f88a5c5faa.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\1\18efd684447eb2ec9b35d8f88a5c5faa.bin
+    projectPath: Library\ShaderCache\1\18efd684447eb2ec9b35d8f88a5c5faa.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\1\193414bb164c2d5eb0c59a1f8ffd8dee.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\1\193414bb164c2d5eb0c59a1f8ffd8dee.bin
+    projectPath: Library\ShaderCache\1\193414bb164c2d5eb0c59a1f8ffd8dee.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\1\1dfc92030694c1c006cf9ecc7e340dbe.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\1\1dfc92030694c1c006cf9ecc7e340dbe.bin
+    projectPath: Library\ShaderCache\1\1dfc92030694c1c006cf9ecc7e340dbe.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\1\1fec2f44b21ab5688dcc8567dc0ad233.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\1\1fec2f44b21ab5688dcc8567dc0ad233.bin
+    projectPath: Library\ShaderCache\1\1fec2f44b21ab5688dcc8567dc0ad233.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\2\21cc68d7e80b3b0d37194134a27c6d7d.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\2\21cc68d7e80b3b0d37194134a27c6d7d.bin
+    projectPath: Library\ShaderCache\2\21cc68d7e80b3b0d37194134a27c6d7d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\2\2309115f91e7ac0e213c8acd71965761.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\2\2309115f91e7ac0e213c8acd71965761.bin
+    projectPath: Library\ShaderCache\2\2309115f91e7ac0e213c8acd71965761.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\2\23c20f659aac5367b9cfcbbbf847015f.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\2\23c20f659aac5367b9cfcbbbf847015f.bin
+    projectPath: Library\ShaderCache\2\23c20f659aac5367b9cfcbbbf847015f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\2\23dd26f0f25e126c581a47221f0c5a87.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\2\23dd26f0f25e126c581a47221f0c5a87.bin
+    projectPath: Library\ShaderCache\2\23dd26f0f25e126c581a47221f0c5a87.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\2\24142c9354c327aa07ca246660310f4f.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\2\24142c9354c327aa07ca246660310f4f.bin
+    projectPath: Library\ShaderCache\2\24142c9354c327aa07ca246660310f4f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\2\255ed85fe269818e243e234497782e69.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\2\255ed85fe269818e243e234497782e69.bin
+    projectPath: Library\ShaderCache\2\255ed85fe269818e243e234497782e69.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\2\25612503c6ac67f4c75b11b65dcbdaa5.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\2\25612503c6ac67f4c75b11b65dcbdaa5.bin
+    projectPath: Library\ShaderCache\2\25612503c6ac67f4c75b11b65dcbdaa5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\2\256e9d5107c5c65367ad8fe085f690ba.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\2\256e9d5107c5c65367ad8fe085f690ba.bin
+    projectPath: Library\ShaderCache\2\256e9d5107c5c65367ad8fe085f690ba.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\2\2578390bc36c12b8ffb28b2a021c60c0.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\2\2578390bc36c12b8ffb28b2a021c60c0.bin
+    projectPath: Library\ShaderCache\2\2578390bc36c12b8ffb28b2a021c60c0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\2\274251af7db37a0140755ee38e2dc374.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\2\274251af7db37a0140755ee38e2dc374.bin
+    projectPath: Library\ShaderCache\2\274251af7db37a0140755ee38e2dc374.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\2\279b4f554f415708da8ce60a5bcb8d43.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\2\279b4f554f415708da8ce60a5bcb8d43.bin
+    projectPath: Library\ShaderCache\2\279b4f554f415708da8ce60a5bcb8d43.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\2\2817d8fd65a6654c3dfd63ea160c1e9c.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\2\2817d8fd65a6654c3dfd63ea160c1e9c.bin
+    projectPath: Library\ShaderCache\2\2817d8fd65a6654c3dfd63ea160c1e9c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\2\29347b8f787a261f9383bebb74fe70b5.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\2\29347b8f787a261f9383bebb74fe70b5.bin
+    projectPath: Library\ShaderCache\2\29347b8f787a261f9383bebb74fe70b5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\2\2ac4d1d1baaaa09dab6f31bf2e14c67b.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\2\2ac4d1d1baaaa09dab6f31bf2e14c67b.bin
+    projectPath: Library\ShaderCache\2\2ac4d1d1baaaa09dab6f31bf2e14c67b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\2\2b3ebf001417a180a558b72f24430cda.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\2\2b3ebf001417a180a558b72f24430cda.bin
+    projectPath: Library\ShaderCache\2\2b3ebf001417a180a558b72f24430cda.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\2\2c377c030fed5c8e1667307769302d80.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\2\2c377c030fed5c8e1667307769302d80.bin
+    projectPath: Library\ShaderCache\2\2c377c030fed5c8e1667307769302d80.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\2\2ea8ecaea0e82fe7f2cacf7e93c6523c.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\2\2ea8ecaea0e82fe7f2cacf7e93c6523c.bin
+    projectPath: Library\ShaderCache\2\2ea8ecaea0e82fe7f2cacf7e93c6523c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\3\30625257c06e72d34b55e9b2b9a7a41b.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\3\30625257c06e72d34b55e9b2b9a7a41b.bin
+    projectPath: Library\ShaderCache\3\30625257c06e72d34b55e9b2b9a7a41b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\3\31998ac1546e3a29ee081ba5732d3b33.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\3\31998ac1546e3a29ee081ba5732d3b33.bin
+    projectPath: Library\ShaderCache\3\31998ac1546e3a29ee081ba5732d3b33.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\3\31defc04a17e7d3c9065421d667557e8.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\3\31defc04a17e7d3c9065421d667557e8.bin
+    projectPath: Library\ShaderCache\3\31defc04a17e7d3c9065421d667557e8.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\3\344872ba5012c5614a9122829806275f.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\3\344872ba5012c5614a9122829806275f.bin
+    projectPath: Library\ShaderCache\3\344872ba5012c5614a9122829806275f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\3\35063056c67e68160fcbac14736e2d3f.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\3\35063056c67e68160fcbac14736e2d3f.bin
+    projectPath: Library\ShaderCache\3\35063056c67e68160fcbac14736e2d3f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\3\39078c5cf0baa76e946b9dea9fe79b1a.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\3\39078c5cf0baa76e946b9dea9fe79b1a.bin
+    projectPath: Library\ShaderCache\3\39078c5cf0baa76e946b9dea9fe79b1a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\3\3a053514fb72dbb5a101281efb110b35.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\3\3a053514fb72dbb5a101281efb110b35.bin
+    projectPath: Library\ShaderCache\3\3a053514fb72dbb5a101281efb110b35.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\4\4152bac099ee641e88e467d45c26d0ce.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\4\4152bac099ee641e88e467d45c26d0ce.bin
+    projectPath: Library\ShaderCache\4\4152bac099ee641e88e467d45c26d0ce.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\4\44745130f6751ccca87138773d486a69.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\4\44745130f6751ccca87138773d486a69.bin
+    projectPath: Library\ShaderCache\4\44745130f6751ccca87138773d486a69.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\4\48de7f00b96dd810ecf47b7e8bd7978b.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\4\48de7f00b96dd810ecf47b7e8bd7978b.bin
+    projectPath: Library\ShaderCache\4\48de7f00b96dd810ecf47b7e8bd7978b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\4\49c3a3c12b3e635725729251129624eb.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\4\49c3a3c12b3e635725729251129624eb.bin
+    projectPath: Library\ShaderCache\4\49c3a3c12b3e635725729251129624eb.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\4\4a88dff9f1a3020d24ae357c95c9a379.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\4\4a88dff9f1a3020d24ae357c95c9a379.bin
+    projectPath: Library\ShaderCache\4\4a88dff9f1a3020d24ae357c95c9a379.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\4\4c36e94a61bb9a5c2c40abcc7de33745.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\4\4c36e94a61bb9a5c2c40abcc7de33745.bin
+    projectPath: Library\ShaderCache\4\4c36e94a61bb9a5c2c40abcc7de33745.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\4\4caa67a35336f21148b88446b3445a41.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\4\4caa67a35336f21148b88446b3445a41.bin
+    projectPath: Library\ShaderCache\4\4caa67a35336f21148b88446b3445a41.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\4\4cd86ef8c045be70b39768c732aa2deb.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\4\4cd86ef8c045be70b39768c732aa2deb.bin
+    projectPath: Library\ShaderCache\4\4cd86ef8c045be70b39768c732aa2deb.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\4\4e1f1ec1ffaf05ae1ac9aff2742556c9.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\4\4e1f1ec1ffaf05ae1ac9aff2742556c9.bin
+    projectPath: Library\ShaderCache\4\4e1f1ec1ffaf05ae1ac9aff2742556c9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\4\4fd8d9f53ab5443e1902cec8fea7b7a7.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\4\4fd8d9f53ab5443e1902cec8fea7b7a7.bin
+    projectPath: Library\ShaderCache\4\4fd8d9f53ab5443e1902cec8fea7b7a7.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\5\509bb95ece96d13547bb8e4085a0c1e7.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\5\509bb95ece96d13547bb8e4085a0c1e7.bin
+    projectPath: Library\ShaderCache\5\509bb95ece96d13547bb8e4085a0c1e7.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\5\5237dfef8e3449ec40a117fe1cf6d9b9.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\5\5237dfef8e3449ec40a117fe1cf6d9b9.bin
+    projectPath: Library\ShaderCache\5\5237dfef8e3449ec40a117fe1cf6d9b9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\5\52d7e8b87bb7f546f1a49043f13950c5.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\5\52d7e8b87bb7f546f1a49043f13950c5.bin
+    projectPath: Library\ShaderCache\5\52d7e8b87bb7f546f1a49043f13950c5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\5\57bb90acf11f484cc03f36104e81824e.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\5\57bb90acf11f484cc03f36104e81824e.bin
+    projectPath: Library\ShaderCache\5\57bb90acf11f484cc03f36104e81824e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\5\57bba8c87622fbe043be025152719d7a.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\5\57bba8c87622fbe043be025152719d7a.bin
+    projectPath: Library\ShaderCache\5\57bba8c87622fbe043be025152719d7a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\5\5f990bdeded57ea1ba76776a64bfcde8.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\5\5f990bdeded57ea1ba76776a64bfcde8.bin
+    projectPath: Library\ShaderCache\5\5f990bdeded57ea1ba76776a64bfcde8.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\5\5fc0d6761fb22107f1b7b0e6fe2b3b89.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\5\5fc0d6761fb22107f1b7b0e6fe2b3b89.bin
+    projectPath: Library\ShaderCache\5\5fc0d6761fb22107f1b7b0e6fe2b3b89.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\5\5fd61ceb14cbc0944d448878684f9f67.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\5\5fd61ceb14cbc0944d448878684f9f67.bin
+    projectPath: Library\ShaderCache\5\5fd61ceb14cbc0944d448878684f9f67.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\6\627315f5e77c37e0a087e2cd6e2a3963.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\6\627315f5e77c37e0a087e2cd6e2a3963.bin
+    projectPath: Library\ShaderCache\6\627315f5e77c37e0a087e2cd6e2a3963.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\6\62f70c581d46156d93e79b911e95edd9.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\6\62f70c581d46156d93e79b911e95edd9.bin
+    projectPath: Library\ShaderCache\6\62f70c581d46156d93e79b911e95edd9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\6\661f004fc563647239849f7cbf406ebd.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\6\661f004fc563647239849f7cbf406ebd.bin
+    projectPath: Library\ShaderCache\6\661f004fc563647239849f7cbf406ebd.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\6\669b7613f24891f9fb01bb80b676e5f5.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\6\669b7613f24891f9fb01bb80b676e5f5.bin
+    projectPath: Library\ShaderCache\6\669b7613f24891f9fb01bb80b676e5f5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\6\6a0602d52b711118ecf0a352ac1df002.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\6\6a0602d52b711118ecf0a352ac1df002.bin
+    projectPath: Library\ShaderCache\6\6a0602d52b711118ecf0a352ac1df002.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\6\6b117c615de2b5dec5dcbeefa2110316.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\6\6b117c615de2b5dec5dcbeefa2110316.bin
+    projectPath: Library\ShaderCache\6\6b117c615de2b5dec5dcbeefa2110316.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\6\6f57575853ee2d6365123692fbe95c06.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\6\6f57575853ee2d6365123692fbe95c06.bin
+    projectPath: Library\ShaderCache\6\6f57575853ee2d6365123692fbe95c06.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\7\70361446cfc18189f8b5c64287743304.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\7\70361446cfc18189f8b5c64287743304.bin
+    projectPath: Library\ShaderCache\7\70361446cfc18189f8b5c64287743304.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\7\73a0e8ea41129067c135776255827329.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\7\73a0e8ea41129067c135776255827329.bin
+    projectPath: Library\ShaderCache\7\73a0e8ea41129067c135776255827329.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\7\73a315cb3286372e342c8ffcf8936160.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\7\73a315cb3286372e342c8ffcf8936160.bin
+    projectPath: Library\ShaderCache\7\73a315cb3286372e342c8ffcf8936160.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\7\75c08b1d41c6cbba01407a48aaeda698.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\7\75c08b1d41c6cbba01407a48aaeda698.bin
+    projectPath: Library\ShaderCache\7\75c08b1d41c6cbba01407a48aaeda698.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\7\75d09ff00552299aff68b8b348aab1aa.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\7\75d09ff00552299aff68b8b348aab1aa.bin
+    projectPath: Library\ShaderCache\7\75d09ff00552299aff68b8b348aab1aa.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\7\7acb616c3f7e40d04a58b0321856b9df.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\7\7acb616c3f7e40d04a58b0321856b9df.bin
+    projectPath: Library\ShaderCache\7\7acb616c3f7e40d04a58b0321856b9df.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\7\7bb9b520f3bfbcaf23fab3384ff31cb5.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\7\7bb9b520f3bfbcaf23fab3384ff31cb5.bin
+    projectPath: Library\ShaderCache\7\7bb9b520f3bfbcaf23fab3384ff31cb5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\7\7ec12a0f2d135073f1f9433124ae9985.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\7\7ec12a0f2d135073f1f9433124ae9985.bin
+    projectPath: Library\ShaderCache\7\7ec12a0f2d135073f1f9433124ae9985.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\8\80c50ab642426ee8cb1abb524e858824.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\8\80c50ab642426ee8cb1abb524e858824.bin
+    projectPath: Library\ShaderCache\8\80c50ab642426ee8cb1abb524e858824.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\8\80cb1178b23a531af518339054547ba8.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\8\80cb1178b23a531af518339054547ba8.bin
+    projectPath: Library\ShaderCache\8\80cb1178b23a531af518339054547ba8.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\8\814a649a23427dfad5b1b7fca639a03c.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\8\814a649a23427dfad5b1b7fca639a03c.bin
+    projectPath: Library\ShaderCache\8\814a649a23427dfad5b1b7fca639a03c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\8\81a11327eee2280131cf2c33b4571e3e.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\8\81a11327eee2280131cf2c33b4571e3e.bin
+    projectPath: Library\ShaderCache\8\81a11327eee2280131cf2c33b4571e3e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\8\82bb78ff51bddfdbe3e7354cdcc2465a.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\8\82bb78ff51bddfdbe3e7354cdcc2465a.bin
+    projectPath: Library\ShaderCache\8\82bb78ff51bddfdbe3e7354cdcc2465a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\8\867906a6c90055d781f34c34b50c23ba.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\8\867906a6c90055d781f34c34b50c23ba.bin
+    projectPath: Library\ShaderCache\8\867906a6c90055d781f34c34b50c23ba.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\8\88ca700f316a6bb8b2c2b70e55e1e475.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\8\88ca700f316a6bb8b2c2b70e55e1e475.bin
+    projectPath: Library\ShaderCache\8\88ca700f316a6bb8b2c2b70e55e1e475.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\8\88d7e6a1630e2e23bd1fd17549f2d005.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\8\88d7e6a1630e2e23bd1fd17549f2d005.bin
+    projectPath: Library\ShaderCache\8\88d7e6a1630e2e23bd1fd17549f2d005.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\8\8be61e8e59730b2520ff7485546f6635.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\8\8be61e8e59730b2520ff7485546f6635.bin
+    projectPath: Library\ShaderCache\8\8be61e8e59730b2520ff7485546f6635.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\8\8c30b4722cf2b87d9eaf8cbcdc25ee6c.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\8\8c30b4722cf2b87d9eaf8cbcdc25ee6c.bin
+    projectPath: Library\ShaderCache\8\8c30b4722cf2b87d9eaf8cbcdc25ee6c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\8\8cd505701fb23f68c965217cfd60bc27.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\8\8cd505701fb23f68c965217cfd60bc27.bin
+    projectPath: Library\ShaderCache\8\8cd505701fb23f68c965217cfd60bc27.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\8\8d12c6df0fa7a275437999ffd7cd86b1.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\8\8d12c6df0fa7a275437999ffd7cd86b1.bin
+    projectPath: Library\ShaderCache\8\8d12c6df0fa7a275437999ffd7cd86b1.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\8\8fb00f9fb98e45d7d150d7b316bdc6d4.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\8\8fb00f9fb98e45d7d150d7b316bdc6d4.bin
+    projectPath: Library\ShaderCache\8\8fb00f9fb98e45d7d150d7b316bdc6d4.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\8\8fd7f2c67ea42cbfb4019e94c616e2a9.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\8\8fd7f2c67ea42cbfb4019e94c616e2a9.bin
+    projectPath: Library\ShaderCache\8\8fd7f2c67ea42cbfb4019e94c616e2a9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\9\91432e7bbd9053c6bae4cffea86a5e48.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\9\91432e7bbd9053c6bae4cffea86a5e48.bin
+    projectPath: Library\ShaderCache\9\91432e7bbd9053c6bae4cffea86a5e48.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\9\91733cedd7ee722d4147a7b70021a96c.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\9\91733cedd7ee722d4147a7b70021a96c.bin
+    projectPath: Library\ShaderCache\9\91733cedd7ee722d4147a7b70021a96c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\9\92a0930d1b079efcf9e5977da044db35.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\9\92a0930d1b079efcf9e5977da044db35.bin
+    projectPath: Library\ShaderCache\9\92a0930d1b079efcf9e5977da044db35.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\9\93cb7a719c0e25b9a127a8151044f588.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\9\93cb7a719c0e25b9a127a8151044f588.bin
+    projectPath: Library\ShaderCache\9\93cb7a719c0e25b9a127a8151044f588.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\9\9432b1424db0d0b91763354800ed6bff.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\9\9432b1424db0d0b91763354800ed6bff.bin
+    projectPath: Library\ShaderCache\9\9432b1424db0d0b91763354800ed6bff.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\9\95a3d9af871ad67c9498b6eddc1487d3.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\9\95a3d9af871ad67c9498b6eddc1487d3.bin
+    projectPath: Library\ShaderCache\9\95a3d9af871ad67c9498b6eddc1487d3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\9\971a14afa754f72dd127e6a5c338c291.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\9\971a14afa754f72dd127e6a5c338c291.bin
+    projectPath: Library\ShaderCache\9\971a14afa754f72dd127e6a5c338c291.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\9\97ae536d310c5d43a12057a24a24dbf6.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\9\97ae536d310c5d43a12057a24a24dbf6.bin
+    projectPath: Library\ShaderCache\9\97ae536d310c5d43a12057a24a24dbf6.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\9\97dbc74d57531b6b8f59fd5af2a2b070.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\9\97dbc74d57531b6b8f59fd5af2a2b070.bin
+    projectPath: Library\ShaderCache\9\97dbc74d57531b6b8f59fd5af2a2b070.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\9\99a7d2e8745bba8764f466e3d58e3785.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\9\99a7d2e8745bba8764f466e3d58e3785.bin
+    projectPath: Library\ShaderCache\9\99a7d2e8745bba8764f466e3d58e3785.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\9\9b5d3512f5d9a0fea9330e95f0ff25f9.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\9\9b5d3512f5d9a0fea9330e95f0ff25f9.bin
+    projectPath: Library\ShaderCache\9\9b5d3512f5d9a0fea9330e95f0ff25f9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\9\9e4d88209eced1e094b105a197631888.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\9\9e4d88209eced1e094b105a197631888.bin
+    projectPath: Library\ShaderCache\9\9e4d88209eced1e094b105a197631888.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\9\9e6304be42b966fb47b008247443b95e.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\9\9e6304be42b966fb47b008247443b95e.bin
+    projectPath: Library\ShaderCache\9\9e6304be42b966fb47b008247443b95e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\9\9ea25370c6c82d794000e5b0ba1c8ec2.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\9\9ea25370c6c82d794000e5b0ba1c8ec2.bin
+    projectPath: Library\ShaderCache\9\9ea25370c6c82d794000e5b0ba1c8ec2.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\a\a2973fa3052fed7c0cb816da1d353576.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\a\a2973fa3052fed7c0cb816da1d353576.bin
+    projectPath: Library\ShaderCache\a\a2973fa3052fed7c0cb816da1d353576.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\a\a3eba45674d12ad16f7ecf03bf169512.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\a\a3eba45674d12ad16f7ecf03bf169512.bin
+    projectPath: Library\ShaderCache\a\a3eba45674d12ad16f7ecf03bf169512.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\a\a53a92a540a82d6489078dc73d2e756b.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\a\a53a92a540a82d6489078dc73d2e756b.bin
+    projectPath: Library\ShaderCache\a\a53a92a540a82d6489078dc73d2e756b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\a\a8ecbdf2a09b74e2d5f5394a4f25376c.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\a\a8ecbdf2a09b74e2d5f5394a4f25376c.bin
+    projectPath: Library\ShaderCache\a\a8ecbdf2a09b74e2d5f5394a4f25376c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\a\ad06d61dce6a3213c27a8da6826907a0.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\a\ad06d61dce6a3213c27a8da6826907a0.bin
+    projectPath: Library\ShaderCache\a\ad06d61dce6a3213c27a8da6826907a0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\a\ad570ccbc90a0257e4f95465e6619241.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\a\ad570ccbc90a0257e4f95465e6619241.bin
+    projectPath: Library\ShaderCache\a\ad570ccbc90a0257e4f95465e6619241.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\a\ad9404fb449de036d691614b34da10aa.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\a\ad9404fb449de036d691614b34da10aa.bin
+    projectPath: Library\ShaderCache\a\ad9404fb449de036d691614b34da10aa.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\b\b2023f59401ddd157b4032d2d404d0f3.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\b\b2023f59401ddd157b4032d2d404d0f3.bin
+    projectPath: Library\ShaderCache\b\b2023f59401ddd157b4032d2d404d0f3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\b\b27179294caac9119397978b3a68721b.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\b\b27179294caac9119397978b3a68721b.bin
+    projectPath: Library\ShaderCache\b\b27179294caac9119397978b3a68721b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\b\b3270f29b68c43876e9ac4419e63631d.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\b\b3270f29b68c43876e9ac4419e63631d.bin
+    projectPath: Library\ShaderCache\b\b3270f29b68c43876e9ac4419e63631d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\b\b4da54ada86946887e5fefe3d987030b.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\b\b4da54ada86946887e5fefe3d987030b.bin
+    projectPath: Library\ShaderCache\b\b4da54ada86946887e5fefe3d987030b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\b\b71a64423e9adbc9cf335039be2340d5.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\b\b71a64423e9adbc9cf335039be2340d5.bin
+    projectPath: Library\ShaderCache\b\b71a64423e9adbc9cf335039be2340d5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\b\b7e8ad4f4bdc656e26dee693a3e31115.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\b\b7e8ad4f4bdc656e26dee693a3e31115.bin
+    projectPath: Library\ShaderCache\b\b7e8ad4f4bdc656e26dee693a3e31115.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\b\bb7be4cfc78a6972f1fa7f153338d6ed.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\b\bb7be4cfc78a6972f1fa7f153338d6ed.bin
+    projectPath: Library\ShaderCache\b\bb7be4cfc78a6972f1fa7f153338d6ed.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\b\bbdd3f83ffece0eee6bdedbea124a6b1.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\b\bbdd3f83ffece0eee6bdedbea124a6b1.bin
+    projectPath: Library\ShaderCache\b\bbdd3f83ffece0eee6bdedbea124a6b1.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\b\bbfd6bd8b5ee0f77e3c70408b89c2890.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\b\bbfd6bd8b5ee0f77e3c70408b89c2890.bin
+    projectPath: Library\ShaderCache\b\bbfd6bd8b5ee0f77e3c70408b89c2890.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\b\be394200410af9cd4e4669337a5a33c3.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\b\be394200410af9cd4e4669337a5a33c3.bin
+    projectPath: Library\ShaderCache\b\be394200410af9cd4e4669337a5a33c3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\b\be76f2793527011d2c7f6370923ebf80.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\b\be76f2793527011d2c7f6370923ebf80.bin
+    projectPath: Library\ShaderCache\b\be76f2793527011d2c7f6370923ebf80.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\c\c4a0762fb860f2a026ba916341d8ff80.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\c\c4a0762fb860f2a026ba916341d8ff80.bin
+    projectPath: Library\ShaderCache\c\c4a0762fb860f2a026ba916341d8ff80.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\c\c809ecc857969aa9f82b360c80f2d307.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\c\c809ecc857969aa9f82b360c80f2d307.bin
+    projectPath: Library\ShaderCache\c\c809ecc857969aa9f82b360c80f2d307.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\c\c84b153edd02c892d2c0c15eacb40dbd.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\c\c84b153edd02c892d2c0c15eacb40dbd.bin
+    projectPath: Library\ShaderCache\c\c84b153edd02c892d2c0c15eacb40dbd.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\c\c94f5f7b0330a9154104113931d2d06c.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\c\c94f5f7b0330a9154104113931d2d06c.bin
+    projectPath: Library\ShaderCache\c\c94f5f7b0330a9154104113931d2d06c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\c\c9b37a1ea1775fe6fa9b8bdf8477d372.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\c\c9b37a1ea1775fe6fa9b8bdf8477d372.bin
+    projectPath: Library\ShaderCache\c\c9b37a1ea1775fe6fa9b8bdf8477d372.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\c\cb7c1105258611001cfcc07dc6469e08.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\c\cb7c1105258611001cfcc07dc6469e08.bin
+    projectPath: Library\ShaderCache\c\cb7c1105258611001cfcc07dc6469e08.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\c\cd52e945c9d7e36a2de4676fae6c390c.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\c\cd52e945c9d7e36a2de4676fae6c390c.bin
+    projectPath: Library\ShaderCache\c\cd52e945c9d7e36a2de4676fae6c390c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\d\d2c9b058ab86a3feac1b446472ba439d.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\d\d2c9b058ab86a3feac1b446472ba439d.bin
+    projectPath: Library\ShaderCache\d\d2c9b058ab86a3feac1b446472ba439d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\d\d393d4b9ad5e5eccd0594e3e440432e4.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\d\d393d4b9ad5e5eccd0594e3e440432e4.bin
+    projectPath: Library\ShaderCache\d\d393d4b9ad5e5eccd0594e3e440432e4.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\d\d5d7ec18da358c8abc2a612838b5af35.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\d\d5d7ec18da358c8abc2a612838b5af35.bin
+    projectPath: Library\ShaderCache\d\d5d7ec18da358c8abc2a612838b5af35.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\d\d7ef3d4fa6ac229228df7879b8e437b5.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\d\d7ef3d4fa6ac229228df7879b8e437b5.bin
+    projectPath: Library\ShaderCache\d\d7ef3d4fa6ac229228df7879b8e437b5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\d\d8703b0d9e1b85143fe2b506fcfeefe4.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\d\d8703b0d9e1b85143fe2b506fcfeefe4.bin
+    projectPath: Library\ShaderCache\d\d8703b0d9e1b85143fe2b506fcfeefe4.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\d\dbcb4ba1c4660317f6148626948462ee.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\d\dbcb4ba1c4660317f6148626948462ee.bin
+    projectPath: Library\ShaderCache\d\dbcb4ba1c4660317f6148626948462ee.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\d\dedb14b07607e3469f60763923d51d65.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\d\dedb14b07607e3469f60763923d51d65.bin
+    projectPath: Library\ShaderCache\d\dedb14b07607e3469f60763923d51d65.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\d\df06f152c71faf069bdddf4b91366408.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\d\df06f152c71faf069bdddf4b91366408.bin
+    projectPath: Library\ShaderCache\d\df06f152c71faf069bdddf4b91366408.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\d\df4997f4985ebe7f1f9e1fed6c272292.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\d\df4997f4985ebe7f1f9e1fed6c272292.bin
+    projectPath: Library\ShaderCache\d\df4997f4985ebe7f1f9e1fed6c272292.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\e\e03b7148c0464ef99f8fb5d3fc744601.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\e\e03b7148c0464ef99f8fb5d3fc744601.bin
+    projectPath: Library\ShaderCache\e\e03b7148c0464ef99f8fb5d3fc744601.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\e\e5939a36b6bacd656f5d80c1fd9ba500.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\e\e5939a36b6bacd656f5d80c1fd9ba500.bin
+    projectPath: Library\ShaderCache\e\e5939a36b6bacd656f5d80c1fd9ba500.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\e\e86fba2844f84b3f1f3c4d7b5b0c8b37.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\e\e86fba2844f84b3f1f3c4d7b5b0c8b37.bin
+    projectPath: Library\ShaderCache\e\e86fba2844f84b3f1f3c4d7b5b0c8b37.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\e\e88d38a592f4af7526f5812dc6459b04.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\e\e88d38a592f4af7526f5812dc6459b04.bin
+    projectPath: Library\ShaderCache\e\e88d38a592f4af7526f5812dc6459b04.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\e\eaacedd94ad617ce4bb1c453cef2aa84.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\e\eaacedd94ad617ce4bb1c453cef2aa84.bin
+    projectPath: Library\ShaderCache\e\eaacedd94ad617ce4bb1c453cef2aa84.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\e\eb12948e98c410bbad3b6317ab1573b8.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\e\eb12948e98c410bbad3b6317ab1573b8.bin
+    projectPath: Library\ShaderCache\e\eb12948e98c410bbad3b6317ab1573b8.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\e\ecf383abd2cf9bbcba3cafbb0ef9a430.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\e\ecf383abd2cf9bbcba3cafbb0ef9a430.bin
+    projectPath: Library\ShaderCache\e\ecf383abd2cf9bbcba3cafbb0ef9a430.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\e\edeb4972d9c53f8e2c9de2c88a80a09e.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\e\edeb4972d9c53f8e2c9de2c88a80a09e.bin
+    projectPath: Library\ShaderCache\e\edeb4972d9c53f8e2c9de2c88a80a09e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\e\ee504f0d15795e5775581c225661939f.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\e\ee504f0d15795e5775581c225661939f.bin
+    projectPath: Library\ShaderCache\e\ee504f0d15795e5775581c225661939f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\e\ee8ff7bc68a5b8b52e57aad250dbeae1.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\e\ee8ff7bc68a5b8b52e57aad250dbeae1.bin
+    projectPath: Library\ShaderCache\e\ee8ff7bc68a5b8b52e57aad250dbeae1.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\e\ef432dfd940f302f10c1e66a56b78358.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\e\ef432dfd940f302f10c1e66a56b78358.bin
+    projectPath: Library\ShaderCache\e\ef432dfd940f302f10c1e66a56b78358.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\e\efd865867807169dce878312f5b97ade.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\e\efd865867807169dce878312f5b97ade.bin
+    projectPath: Library\ShaderCache\e\efd865867807169dce878312f5b97ade.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\e\effdc3d7b08f18d0b4f23e56693b27e3.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\e\effdc3d7b08f18d0b4f23e56693b27e3.bin
+    projectPath: Library\ShaderCache\e\effdc3d7b08f18d0b4f23e56693b27e3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\EditorEncounteredVariants
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\ShaderCache\f\f080829b58ae852ad6134fa28bfb37f0.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\f\f080829b58ae852ad6134fa28bfb37f0.bin
+    projectPath: Library\ShaderCache\f\f080829b58ae852ad6134fa28bfb37f0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\f\f1009c26efb86a992da9f72c431b4029.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\f\f1009c26efb86a992da9f72c431b4029.bin
+    projectPath: Library\ShaderCache\f\f1009c26efb86a992da9f72c431b4029.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\f\f22316e174efe10fe7588e53507e53ce.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\f\f22316e174efe10fe7588e53507e53ce.bin
+    projectPath: Library\ShaderCache\f\f22316e174efe10fe7588e53507e53ce.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\f\f2aef089b4e4b71695f2d746e11c972a.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\f\f2aef089b4e4b71695f2d746e11c972a.bin
+    projectPath: Library\ShaderCache\f\f2aef089b4e4b71695f2d746e11c972a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\f\f3df837fec6bfe4a885dec29566b0d01.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\f\f3df837fec6bfe4a885dec29566b0d01.bin
+    projectPath: Library\ShaderCache\f\f3df837fec6bfe4a885dec29566b0d01.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\f\f43a1bd205d84c5a4d4b232bafed8162.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\f\f43a1bd205d84c5a4d4b232bafed8162.bin
+    projectPath: Library\ShaderCache\f\f43a1bd205d84c5a4d4b232bafed8162.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\f\f588b80585e3d95b6e9faa8945206b19.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\f\f588b80585e3d95b6e9faa8945206b19.bin
+    projectPath: Library\ShaderCache\f\f588b80585e3d95b6e9faa8945206b19.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\f\f5d989068c05f81f61e029ec041c6ba6.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\f\f5d989068c05f81f61e029ec041c6ba6.bin
+    projectPath: Library\ShaderCache\f\f5d989068c05f81f61e029ec041c6ba6.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\f\f6cd470ab9e767d77c3644753e5d42e9.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\f\f6cd470ab9e767d77c3644753e5d42e9.bin
+    projectPath: Library\ShaderCache\f\f6cd470ab9e767d77c3644753e5d42e9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\f\f8731f3b51bdb4bbc7aadf74de1cee73.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\f\f8731f3b51bdb4bbc7aadf74de1cee73.bin
+    projectPath: Library\ShaderCache\f\f8731f3b51bdb4bbc7aadf74de1cee73.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\f\f8ede253e8d69e175e1b18873c302681.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\f\f8ede253e8d69e175e1b18873c302681.bin
+    projectPath: Library\ShaderCache\f\f8ede253e8d69e175e1b18873c302681.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\f\fab8438f65ec3e9285f848a5ddee37e0.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\f\fab8438f65ec3e9285f848a5ddee37e0.bin
+    projectPath: Library\ShaderCache\f\fab8438f65ec3e9285f848a5ddee37e0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\f\fbe18dafcd05c822399a4e62e36d81cb.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\f\fbe18dafcd05c822399a4e62e36d81cb.bin
+    projectPath: Library\ShaderCache\f\fbe18dafcd05c822399a4e62e36d81cb.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\f\fd5e82c11e28e3a61c99b5b2728fb38f.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\f\fd5e82c11e28e3a61c99b5b2728fb38f.bin
+    projectPath: Library\ShaderCache\f\fd5e82c11e28e3a61c99b5b2728fb38f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\ShaderCache\f\fd6830f9cf2a30fb6b07c60f5424527b.bin
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\ShaderCache\f\fd6830f9cf2a30fb6b07c60f5424527b.bin
+    projectPath: Library\ShaderCache\f\fd6830f9cf2a30fb6b07c60f5424527b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Library\SourceAssetDB
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\StateCache\MainStageHierarchy\71\7146dcff287639712e402c6b7fdd04db.json
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\StateCache\MainStageHierarchy\71\7146dcff287639712e402c6b7fdd04db.json
+    projectPath: Library\StateCache\MainStageHierarchy\71\7146dcff287639712e402c6b7fdd04db.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\StateCache\SceneView\e1\e1a2d2ffa56e080cfaea8a7ceff0e8be.json
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\StateCache\SceneView\e1\e1a2d2ffa56e080cfaea8a7ceff0e8be.json
+    projectPath: Library\StateCache\SceneView\e1\e1a2d2ffa56e080cfaea8a7ceff0e8be.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    projectPath: Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Logs\AssetImportWorker0.log
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Logs\AssetImportWorker0.log
+    projectPath: Logs\AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Bodemonderzoek\Logs\AssetImportWorker0-prev.log
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Logs\AssetImportWorker0-prev.log
+    projectPath: Logs\AssetImportWorker0-prev.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Logs\shadercompiler-AssetImportWorker0.log
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Logs\shadercompiler-AssetImportWorker0.log
+    projectPath: Logs\shadercompiler-AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Bodemonderzoek\Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Logs\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Logs\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Logs\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Logs\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Bodemonderzoek\Logs\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Logs\shadercompiler-UnityShaderCompiler.exe3.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe3.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Bodemonderzoek\Logs\shadercompiler-UnityShaderCompiler.exe4.log
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Logs\shadercompiler-UnityShaderCompiler.exe4.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe4.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Bodemonderzoek\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Bodemonderzoek\Temp\UnityLockfile
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\Temp\workerlic
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\Temp\workerlic
+    projectPath: Temp\workerlic
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Bodemonderzoek\UserSettings\EditorUserSettings.asset
+    fullPath: C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\Research and Development\Project\Eindproject\Bodemonderzoek\Bodemonderzoek\UserSettings\EditorUserSettings.asset
+    projectPath: UserSettings\EditorUserSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3

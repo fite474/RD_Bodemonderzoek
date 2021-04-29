@@ -1,0 +1,14 @@
+# Blender MTL File: 'tree stump v top 004.blend'
+# Material Count: 1
+
+newmtl tree_stump_material
+Ns 194.117647
+Ka 0.013440 0.013440 0.013440
+Kd 0.028914 0.026764 0.028187
+Ks 0.031855 0.031855 0.031855
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 5
+map_Kd tree stump v top texture bake 001.png
+map_Bump tree stump v top normal 001.png
